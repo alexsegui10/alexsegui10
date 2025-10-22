@@ -4,6 +4,8 @@ Soy **programador web full stack** en formación. Me encanta crear proyectos pr�
 Actualmente estudio **Desarrollo de Aplicaciones Web (DAW)** y trabajo en varios proyectos personales.
 
 ---
+### 📊 Lenguajes más usados
+![Lenguajes más usados](./metrics-langs.svg)
 
 ## 💻 Tecnologías que uso
 
